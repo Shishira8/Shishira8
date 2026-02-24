@@ -1,7 +1,6 @@
 # 💫 About Me:
 I’m currently working on<br><br>Snowflake trend analysis using Snowflake Cortex (forecasting + pattern insights on time-series data)<br><br>A separate Vector DB project building a RAG-based application with embeddings and semantic search<br><br>👯 I’m looking to collaborate on<br><br>AI Engineering projects (LLM apps, RAG systems, intelligent agents, production AI systems)<br><br>🤝 I’m looking for help with<br><br>Building and deploying scalable AI Engineering projects<br><br>Improving RAG pipelines (chunking, retrieval, evaluation, optimization)<br><br>🌱 I’m currently learning<br><br>Data Engineering<br><br>AI Engineering<br><br>Data Science<br><br>💬 Ask me about<br><br>Snowflake, analytics engineering, and data pipelines<br><br>Vector databases and LLM applications<br><br>Building end-to-end data + AI systems<br><br>⚡ Fun fact<br><br>I’m a 2-time global nominee at the NASA Space Apps Hackathon and currently volunteering with You Run This Town OC, fundraising for homeless kids
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shishira-shashidhar-b634311b1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shishirashashidhar@gmail.com) 
 
